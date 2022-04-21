@@ -1,0 +1,27 @@
+.Task
+{
+    position: relative;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.3rem;
+    width: calc(100% - 2rem);
+    background-color: whitesmoke;
+}
+
+.Task h2
+{
+    margin-bottom: 0.2rem;
+}
+
+.Task small
+{
+    position: absolute;
+    right: 0.4rem;
+    bottom: 0.4rem;
+    text-align: right;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    color: #FFF;
+    user-select: none;
+    cursor: pointer;
+}

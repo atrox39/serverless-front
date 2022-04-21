@@ -1,0 +1,1 @@
+# React Template 18 with EsLint
